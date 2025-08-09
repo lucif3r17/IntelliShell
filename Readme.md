@@ -52,6 +52,8 @@ IntelliShell is an AI-powered interactive terminal shell written in C++. It inte
     source venv/bin/activate
     pip install -r requirements.txt
     ```
+6. **Add your gemini api keys to .env**:
+    Refer : https://aistudio.google.com/apikey
 
 ---
 
