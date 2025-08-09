@@ -29,7 +29,7 @@ IntelliShell is an AI-powered interactive terminal shell written in C++. It inte
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/lucif3r17/IntelliShell.git](https://github.com/lucif3r17/IntelliShell.git)
+    git clone https://github.com/lucif3r17/IntelliShell.git
     cd IntelliShell
     ```
 2.  **Ensure you have dependencies installed:**
