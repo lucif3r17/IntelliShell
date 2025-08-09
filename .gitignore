@@ -1,0 +1,20 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Ignore compiled binaries
+ai_shell
+*.o
+
+# Ignore Python virtual environments
+venv/
+.env
+
+# Ignore editor and system files
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
